@@ -14,7 +14,7 @@
 ## 🔗主要作品
 
 - **GitHub 主页** - [yezihack](https://github.com/yezihack)
-- **网站首页** - [百里个人主页](https://7778880.xyz/)
+- **网站首页** - [百里个人主页](https://www.7778880.xyz/)
 - **词环工具** - [lexiloop.7778880.xyz](https://lexiloop.7778880.xyz/)
 - **拾链导航** - [nav.7778880.xyz](https://nav.7778880.xyz/)
 
